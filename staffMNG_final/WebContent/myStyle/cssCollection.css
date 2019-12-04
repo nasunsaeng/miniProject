@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.in_top {
+	background-color: lightpink;
+	width: 100%;
+	height: 20%;
+}
+
+.in_middle {
+	background-color: lightyellow;
+	width: 95%;
+	height: 70%;
+}
+.in_bottom {
+	
+}
